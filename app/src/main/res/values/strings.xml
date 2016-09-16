@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">CIS298Assignment1</string>
 
-    <string name="counter">Start counting with the buttons below!</string>
+    <string name="counter">Start counting with the buttons below!\nCount: 0</string>
     <string name="action_settings">Settings</string>
     <string name="plus">+</string>
     <string name="minus">-</string>
+    <string name="toast_message">You\'ve just gone over 20!</string>
 </resources>
