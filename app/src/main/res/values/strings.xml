@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">CIS298Assignment1</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="counter">Start counting with the buttons below!</string>
     <string name="action_settings">Settings</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
 </resources>
