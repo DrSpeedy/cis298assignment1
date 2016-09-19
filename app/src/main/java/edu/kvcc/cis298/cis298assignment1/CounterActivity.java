@@ -58,10 +58,10 @@ public class CounterActivity extends AppCompatActivity {
                 // set count = count - 1
                 count -= 1;
 
-                // if the toast message has already been fired, but the count is now back under 20,
+                // if the toast message has already been fired, but the count is now equal or less than 20,
                 // reset the hasToasted variable back the false so we can fire the message again
                 // if or when the count goes back over 20
-                if (hasToasted && count < 20) {
+                if (hasToasted && count <= 20) {
                     hasToasted = false;
                 }
 
